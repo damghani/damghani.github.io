@@ -13,7 +13,7 @@ const imageFiles = [
   'NIMA.jpg', 'MARJAN.jpg', 'LOVE.png', 'PIG.png', 'COW.png', 'BAT.png',
   'BEE.png', 'EGG.png', 'JAM.png', 'CORN.png', 'BAG.png', 'PEN.png',
   'MAP.png', 'BOX.png', 'SKY.jpg', 'LEAF.png', 'TREE.png', 'SEA.png',
-  'RAIN.png', 'HAT.png', 'MAHSA.jpg',
+  'RAIN.png', 'HAT.png', 'MAHSA.jpg', 'UNCLE.jpg',
   'SILLY.png' // silly mode special image
 ];
 
